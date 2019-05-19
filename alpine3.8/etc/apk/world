@@ -1,0 +1,8 @@
+.persistent-deps
+.php-rundeps
+alpine-baselayout
+alpine-keys
+apk-tools
+busybox
+libc-utils
+openrc
