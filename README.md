@@ -8,11 +8,7 @@
 
 
 
-[alpine_php_conf](alpine_php_conf) 相关配置资源目录
-
-
-
-
+[alpine_php_conf_ext](alpine_php_conf_ext)  Alpine Docker php相关配置与扩展文件目录
 
 
 
